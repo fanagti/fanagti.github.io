@@ -1,4 +1,13 @@
 p {
     text-align: justify;
 }
+.up {
+    top: -150px;
+}
+.indent p {
+    text-indent: 50px;
+}
+img {
+    border-radius: 10px;
+}
 /* break poin */
